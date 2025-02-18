@@ -46,6 +46,7 @@ touchNumbers/
 ├── Info.plist                  // アプリ設定ファイル
 ├── README.md                   // プロジェクト概要
 └── .gitignore                  // Git管理対象外ファイル
+```
 
 ## アプリシステム
 ### 1. アプリ起動  
