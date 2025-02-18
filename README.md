@@ -1,6 +1,5 @@
 # touchNumbers
 【iOS】早押しゲームアプリ
-README.md
 
 ## Project Name
 **touchNumbers**
