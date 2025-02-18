@@ -101,4 +101,8 @@ touchNumbers/
 2. **GameView** で1～25を順番にタップ  
 3. **間違えるとミスカウント**  
 4. **25までタップするとクリア**  
-5. **ResultView で結果を表示 & リトライ可能**  
+5. **ResultView で結果を表示 & リトライ可能**
+
+
+<img width="420" alt="ss" src="https://github.com/user-attachments/assets/fce36b3d-fac9-4a7e-82bc-962f8df8b775" />
+
