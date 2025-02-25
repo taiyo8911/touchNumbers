@@ -39,12 +39,8 @@ touchNumbers/
 ├── ViewModels/
 │   └── GameViewModel.swift       // ゲーム状態とロジックの管理
 ├── Utilities/
-│   ├── TimerManager.swift        // タイマー管理のユーティリティ
-│   └── Randomizer.swift          // 数字のランダム配置ロジック
-├── Assets.xcassets/              // 画像、アセット管理
-├── Info.plist                  // アプリ設定ファイル
-├── README.md                   // プロジェクト概要
-└── .gitignore                  // Git管理対象外ファイル
+    ├── TimerManager.swift        // タイマー管理のユーティリティ
+    └── Randomizer.swift          // 数字のランダム配置ロジック
 ```
 
 ## アプリシステム
